@@ -3,10 +3,10 @@
 ### Problem
 When I download my pictures from iCloud to my Windows computer they are never in chronological order eventhough they are displayed in order in iCloud.
 
-## Solution
+### Solution
 Store the file names in chronological order. Then rename every file after downloading.
 
-### Two scripts
+#### Two scripts
 
 script 1: Get name and date time for every picture and video in iCloud and store it in a txt file.
 
